@@ -1,4 +1,5 @@
 # library imports
+#Based on https://arxiv.org/abs/2401.09915
 from itertools import product
 import matplotlib.pyplot as plt
 import numpy as np
